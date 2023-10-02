@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99a82ff1-2c66-4426-8635-4279aa315f0d" name="Changes" comment="" />
+    <list default="true" id="99a82ff1-2c66-4426-8635-4279aa315f0d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DataStructure/SegmentTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/DataStructure/SegmentTreeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/SegmentTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +19,18 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,6 +46,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/u-keunsong/Desktop/Projects/study/Practice",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -41,6 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696226187176</updated>
       <workItem from="1696226188252" duration="1000" />
+      <workItem from="1696227593501" duration="5000" />
     </task>
     <servers />
   </component>
