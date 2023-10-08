@@ -1,10 +1,10 @@
 package org.example.DataStructure.SegmentTree;
 
 public abstract class AbstractSegmentTree implements SegmentTree {
-    private final Object[] tree;
-    private final int height, arrayLength;
+    protected Object[] tree;
+    protected final int height, arrayLength;
 
-    private AbstractSegmentTree(Object[] arr) {
+    protected AbstractSegmentTree(Object[] arr) {
         arrayLength = arr.length;
         height = (int) Math.ceil(Math.log(arrayLength) / Math.log(2));
         tree = new Object[(int) Math.pow(2, height + 1)];
